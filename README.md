@@ -1,2 +1,2 @@
 # BloodCare
-A Blood bank app which is connecting hospitals with needy.
+A Blood bank app connecting hospitals with needy.
