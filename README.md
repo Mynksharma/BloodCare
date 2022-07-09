@@ -12,6 +12,6 @@ A Blood bank app connecting hospitals with needy.
 <img src="/images/request.png" /><br/><br/>
 <img src="/images/login.png" /><br/><br/>
 <div>
-<img src="/images/mobile_available.jpeg" />
-<img src="/images/mobile_home.jpeg" />
+<img src="/images/mobile_available.jpeg" height="500" width="30%"/>
+<img src="/images/mobile_home.jpeg" height="500" />
 </div>
